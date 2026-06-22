@@ -2,7 +2,7 @@
 
 > **Status:** 🚧 Placeholder — to be filled in  
 > **Process Reference:** FW  
-> **Standard(s):** ASPICE 3.1
+> **Standard(s):** SPICE 3.1
 
 ## Purpose
 

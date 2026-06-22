@@ -2,7 +2,7 @@
 
 > **Status:** 🚧 Placeholder — to be filled in  
 > **Process Reference:** —  
-> **Standard(s):** ASPICE 3.1, ISO 26262, DO-178C
+> **Standard(s):** SPICE 3.1, ISO 26262, DO-178C
 
 ## Purpose
 

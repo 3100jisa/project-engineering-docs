@@ -2,7 +2,7 @@
 
 > **Status:** 🚧 Placeholder — to be filled in  
 > **Process Reference:** MAN.5  
-> **Standard(s):** ASPICE 3.1
+> **Standard(s):** SPICE 3.1
 
 ## Purpose
 

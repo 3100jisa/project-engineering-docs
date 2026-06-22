@@ -2,7 +2,7 @@
 
 > **Status:** 🚧 Placeholder — to be filled in  
 > **Process Reference:** HWE.4  
-> **Standard(s):** ASPICE 3.1, DO-254
+> **Standard(s):** SPICE 3.1, DO-254
 
 ## Purpose
 

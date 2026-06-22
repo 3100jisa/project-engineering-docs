@@ -2,7 +2,7 @@
 
 > **Status:** 🚧 Placeholder — to be filled in  
 > **Process Reference:** SUP.2  
-> **Standard(s):** ASPICE 3.1, DO-178C
+> **Standard(s):** SPICE 3.1, DO-178C
 
 ## Purpose
 

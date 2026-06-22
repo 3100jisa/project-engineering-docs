@@ -7,7 +7,7 @@
 Lessons learned are structured observations from completed work that help:
 - Avoid repeating past mistakes
 - Scale successful approaches
-- Feed process improvement activities (ASPICE PIM.3)
+- Feed process improvement activities (SPICE PIM.3)
 
 ## How to Contribute
 

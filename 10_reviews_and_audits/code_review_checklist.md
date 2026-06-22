@@ -2,7 +2,7 @@
 
 > **Status:** 🚧 Placeholder — to be filled in  
 > **Process Reference:** SUP.4  
-> **Standard(s):** ASPICE 3.1, MISRA-C
+> **Standard(s):** SPICE 3.1, MISRA-C
 
 ## Purpose
 

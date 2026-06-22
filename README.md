@@ -1,13 +1,13 @@
 # Project Engineering Documentation
 
-> Documentation repository for SW/FW/HW project development, based on **ASPICE** (Automotive SPICE) and **SPICE** (ISO/IEC 15504) best practices.  
+> Documentation repository for SW/FW/HW project development, based on **SPICE** (Automotive SPICE) and **SPICE** (ISO/IEC 15504) best practices.  
 > Applicable to automotive, aerospace, and safety-critical embedded systems.
 
 ## Standards & Frameworks Referenced
 
 | Standard | Domain | Description |
 |---|---|---|
-| ASPICE 3.1 | Automotive | Automotive SPICE process reference & assessment model |
+| SPICE 3.1 | Automotive | Automotive SPICE process reference & assessment model |
 | ISO/IEC 15504 (SPICE) | General | Software process improvement & capability determination |
 | ISO 26262 | Automotive | Functional safety for road vehicles |
 | IEC 61508 | General | Functional safety of E/E/PE systems |
@@ -18,7 +18,7 @@
 
 ## Repository Structure
 
-| Folder | Content | ASPICE Process |
+| Folder | Content | SPICE Process |
 |---|---|---|
 | `00_process_framework/` | Standards overview, capability model | — |
 | `01_project_management/` | Project plan, risk, metrics | MAN.3, MAN.5, MAN.6 |

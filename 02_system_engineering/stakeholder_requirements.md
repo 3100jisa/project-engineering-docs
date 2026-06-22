@@ -2,7 +2,7 @@
 
 > **Status:** 🚧 Placeholder — to be filled in  
 > **Process Reference:** SYS.1  
-> **Standard(s):** ASPICE 3.1, ARP4754A
+> **Standard(s):** SPICE 3.1, ARP4754A
 
 ## Purpose
 
